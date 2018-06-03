@@ -2,6 +2,7 @@
 A mobile application to collect data through sensors and use them for analysis, visualization and future predictions. 
 
 PLATFORM
+
 IBM Bluemix
 
 Bluemix™ is a fully managed, cloud-hosted service designed to simplify and derive value from IoT devices . An application is created on this with

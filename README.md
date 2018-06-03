@@ -14,16 +14,18 @@ the key steps:
 ● Connecting it to Node – RED to create flow,monitor and analyze.
 
 IBM Watson
+
 Watson on the IBM Cloud is a platform to integrate application with the store, train and manage data being on secure cloud server.
 
 Node-RED
-Node Red is a programming tool for wiring together hardware devices, API’s and online services. The browser based editor is used to deploy nodes in
-their run time.
+
+Node Red is a programming tool for wiring together hardware devices, API’s and online services. The browser based editor is used to deploy nodes in their run time.
 
 Smartphone
+
 A device with all the sensors like accelerometer, gyroscope, camera, pulse, proximity, magnetometer, etc. embedded on the same platform to make it easier to run them all together as an IOTdevice.
 
 Command line Interface
+
 The reference model considers cloud foundry as an interface between the device collecting data and the IBM Bluemix for the sole purpose of pushing the data on the cloud Bluemix platform. It is a series of
-commands implemented in the command window.To receive alerts on different websites and platforms, a respective account is desired. For example, to tweet on twitter when certain event occurs a twitter account is necessary. Similarly to receive an email notifying an event An email
-account with SMTP relay capabilities is required.
+commands implemented in the command window.To receive alerts on different websites and platforms, a respective account is desired. For example, to tweet on twitter when certain event occurs a twitter account is necessary. Similarly to receive an email notifying an event An email account with SMTP relay capabilities is required.

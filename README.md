@@ -1,6 +1,9 @@
 # Smart-phone-based-IOT-Application
 A mobile application to collect data through sensors and use them for analysis, visualization and future predictions. 
 
+<img width="254" alt="system architecture" src="https://user-images.githubusercontent.com/26907521/40882446-157c2d0e-6697-11e8-9ec6-3e2094a44989.PNG">
+
+
 PLATFORM
 
 IBM Bluemix
